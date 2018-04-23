@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726613499160",
+    "firebase_url": "https://sapp-b6535.firebaseio.com",
+    "project_id": "sapp-b6535",
+    "storage_bucket": "sapp-b6535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726613499160:android:3fb31f51f074ef40",
+        "android_client_info": {
+          "package_name": "com.khadeeja.sapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726613499160-noc060bcr76okppqm0anl8cbmguucu3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khadeeja.sapp",
+            "certificate_hash": "1b94cb205c654bb5ebc852702ab36fe0cd684ff2"
+          }
+        },
+        {
+          "client_id": "726613499160-f5bcoueggtm2hs4oe0rsh1m46ak9rdce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1U32S-ZBdgOjbcv7OgIlx3Lo8PSzSAas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726613499160-f5bcoueggtm2hs4oe0rsh1m46ak9rdce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
